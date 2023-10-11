@@ -9,7 +9,7 @@ Screenshot & Demo Video
 -----------------------
 Demo:
 
-![](DemoVideo/DemoVidep.gif)
+![asciicast](DemoVideo/DemoVidep.gif)
 
 Menu UI:
 
