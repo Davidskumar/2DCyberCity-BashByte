@@ -9,7 +9,7 @@ Screenshot & Demo Video
 -----------------------
 Demo:
 
-https://github.com/Davidskumar/2DCyberCity-BashByte/assets/81314017/8afa4266-4420-493a-bdce-3b945b228fc5
+![](DemoVideo/DemoVidep.gif)
 
 Menu UI:
 
